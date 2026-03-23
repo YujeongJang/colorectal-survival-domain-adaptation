@@ -5,8 +5,11 @@ This repository contains the code for a machine learning pipeline using syntheti
 - SAS: data preprocessing
 - Python: model training and evaluation (LightGBM, XGBoost)
 ## Data Availability
-The datasets are not publicly available due to institutional restrictions.
+The datasets used in this study are not publicly available due to institutional and ethical restrictions.  
+- NCDC data are available from the National Cancer Data Center (https://www.cancerdata.re.kr)  
+- Hospital data are available upon reasonable request, subject to institutional approval and a data-use agreement  
 ## Reproducibility
 All scripts required to reproduce the analysis pipeline are provided.
 ## Code Availability
-This repository will be fully populated with analysis code upon publication.
+The full analysis code will be made publicly available in this repository upon publication of the associated manuscript. 
+The repository is currently being prepared to ensure clarity, documentation, and reproducibility.
