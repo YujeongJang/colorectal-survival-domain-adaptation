@@ -1,9 +1,8 @@
 # colorectal-survival-domain-adaptation
-Machine learning pipeline for colorectal cancer survival prediction using synthetic data pretraining and domain adaptation on hospital data.
-This repository contains the code for a machine learning pipeline using synthetic data pretraining and domain adaptation with hospital data.
+Machine learning pipeline for colorectal cancer survival prediction using synthetic data pretraining and domain adaptation to hospital data.
 ## Contents
-- SAS: data preprocessing
-- Python: model training and evaluation (LightGBM, XGBoost)
+* SAS: data preprocessing and cohort construction
+* Python: model training and evaluation (LightGBM, XGBoost)
 ## Data Availability
 The datasets used in this study are not publicly available due to institutional and ethical restrictions.  
 - NCDC data are available from the National Cancer Data Center (https://www.cancerdata.re.kr)  
