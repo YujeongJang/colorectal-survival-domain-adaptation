@@ -7,7 +7,6 @@ This repository contains the source code for the following paper:
 
 ## Contents
 * Python: model training and evaluation (LightGBM, XGBoost)
-* The analysis pipeline was implemented in Python using the following packages: numpy, pandas, scikit-learn, lightgbm, xgboost, imbalanced-learn, scipy
 
 ## Data Availability
 The datasets used in this study are not publicly available due to institutional and ethical restrictions.  
