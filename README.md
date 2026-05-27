@@ -6,7 +6,6 @@ This repository contains the source code for the following paper:
 **Evaluation of the Applicability of Synthetic Data in the Development of Colorectal Cancer Survival Prediction Models: External Validation of Advanced Machine Learning Models Based on National Cancer Data Center (NCDC) Data**
 
 ## Contents
-* SAS: data preprocessing and cohort construction
 * Python: model training and evaluation (LightGBM, XGBoost)
 
 ## Data Availability
@@ -19,4 +18,3 @@ All scripts required to reproduce the analysis pipeline are provided.
 
 ## Code Availability
 The full analysis code will be made publicly available in this repository upon publication of the associated manuscript. 
-The repository is currently being prepared to ensure clarity, documentation, and reproducibility.
