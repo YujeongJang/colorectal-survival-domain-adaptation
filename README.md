@@ -3,7 +3,7 @@ Machine learning pipeline for colorectal cancer survival prediction using synthe
 
 This repository contains the source code for the following paper:
 
-Evaluation of the Applicability of Synthetic Data in the Development of Colorectal Cancer Survival Prediction Models: External Validation of Advanced Machine Learning Models Based on National Cancer Data Center (NCDC) Data
+## Evaluation of the Applicability of Synthetic Data in the Development of Colorectal Cancer Survival Prediction Models: External Validation of Advanced Machine Learning Models Based on National Cancer Data Center (NCDC) Data
 
 ## Contents
 * SAS: data preprocessing and cohort construction
